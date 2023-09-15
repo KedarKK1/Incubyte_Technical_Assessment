@@ -130,5 +130,5 @@ class Chandrayaan3:
 
 
 # Creating obj for Chandrayaan3, for calling takeUserInput function, for taking user input
-obj = Chandrayaan3()
-obj.takeUserInput()
+# obj = Chandrayaan3()
+# obj.takeUserInput()
